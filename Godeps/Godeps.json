@@ -1,0 +1,24 @@
+{
+	"ImportPath": "github.com/johnmcdnl/selenium",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v74",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/Sirupsen/logrus",
+			"Comment": "v0.10.0-38-g3ec0642",
+			"Rev": "3ec0642a7fb6488f65b06f9040adc67e3990296a"
+		},
+		{
+			"ImportPath": "github.com/bunsenapp/go-selenium",
+			"Comment": "v0.1.0-6-g366bf5d",
+			"Rev": "366bf5d7df9e40da96432b9157e71d979070250e"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/unix",
+			"Rev": "d75a52659825e75fff6158388dddc6a5b04f9ba5"
+		}
+	]
+}
